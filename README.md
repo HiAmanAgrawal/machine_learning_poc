@@ -10,7 +10,7 @@ This repository serves as a collection of my proof-of-concept (POC) projects whi
   - "100 Days of ML" YouTube series  
 - **Structure**:  
   - **Code**: All POC implementations will be added to this repository.  
-  - **Notes**: Detailed explanations and notes are available in a dedicated Google Doc.  
+  - **Notes**: Detailed explanations and notes are available in a [dedicated Google Doc](https://docs.google.com/document/d/1bK6IPyMLatImuv801k72FJszcl2dg8omnJOxBVt8pyY/edit?usp=sharing).  
 
 ## Getting Started  
 
