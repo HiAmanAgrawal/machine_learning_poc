@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ticket_predictor_route.bruno",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

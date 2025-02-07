@@ -1,0 +1,18 @@
+meta {
+  name: prediction
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://127.0.0.1:5000/predict
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+      "ticket_description": "Hey I have submitted my timesheet wrong for w/c 27th december - can you please delete this so I can re-do it? Thank you!--"
+  }
+  
+}
